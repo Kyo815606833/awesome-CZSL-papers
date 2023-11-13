@@ -17,6 +17,7 @@ Awesome Compositional Zero-shot Learning papers.
 - **Learning Unseen Concepts via Hierarchical Decomposition and Composition(HiDC)** (2020 CVPR), Muli Yang et al. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Unseen_Concepts_via_Hierarchical_Decomposition_and_Composition_CVPR_2020_paper.pdf)
 - **Symmetry and Group in Attribute-Object Compositions(SymNet)** (2020 CVPR), Yong-Lu Li et al. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf)
 - **Attributes as Operators: Factorizing Unseen Attribute-Object Compositions(AttrAsOp)** (2018 ECCV), Tushar Nagarajan et al. [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper.pdf)
+- **From Red Wine to Red Tomato: Composition with Context** (2017 CVPR), Ishan Misra et al. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Misra_From_Red_Wine_CVPR_2017_paper.pdf)
 
 ### Composed CZSL Methods
 - **Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning(DFSP)** (2023 CVPR), Xiaocheng Lu et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
