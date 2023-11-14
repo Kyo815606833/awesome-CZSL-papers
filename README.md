@@ -1,4 +1,4 @@
-# awesome-CZSL-papers
+# Awesome-Compositional-Zero-Shot-Learning-Papers
 Awesome Compositional Zero-shot Learning papers.
 Generally, composition zero-shot learning methods are divided into two different classes: disentangled CZSL methods and composed CZSL methods, distinguished by the distribution of attributes and objects. Due to the limit of my comprehension, the following classifications are for reference only, papers are the key points.：）
 ## Paper List
