@@ -14,6 +14,7 @@ Generally, composition zero-shot learning methods are divided into two different
 - **Independent Prototype Propagation for Zero-Shot Compositionality(ProtoProp)** (2021 NeurIPS), Frank Ruis et al. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/584b98aac2dddf59ee2cf19ca4ccb75e-Paper.pdf)
 - **Learning Single/Multi-Attribute of Object With Symmetry and Group(SymNet)** (2021 TPAMI), Yong-Lu Li et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9568710)
 - **Revisiting Visual Product for Compositional Zero-Shot Learning(VisProd)** (2021 NeurIPS), Shyamgopal Karthik et al. [[pdf]](https://openreview.net/pdf?id=Yc9Vh1nn-2I)
+- **Relation-Aware Compositional Zero-Shot Learning for Attribute-Object Pair Recognition(BMP-Net)** (2021 TMM), Ziwei Xu et al. [[pdf]](https://arxiv.org/pdf/2108.04603.pdf)
 - **A Causal View of Compositional Zero-shot Recognition** (2020 NeurIPS), Yuval Atzmon et al. [[pdf]](https://papers.nips.cc/paper_files/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
 - **Learning Unseen Concepts via Hierarchical Decomposition and Composition(HiDC)** (2020 CVPR), Muli Yang et al. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Unseen_Concepts_via_Hierarchical_Decomposition_and_Composition_CVPR_2020_paper.pdf)
 - **Symmetry and Group in Attribute-Object Compositions(SymNet)** (2020 CVPR), Yong-Lu Li et al. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf)
