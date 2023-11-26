@@ -22,6 +22,7 @@ Generally, composition zero-shot learning methods are divided into two different
 - **From Red Wine to Red Tomato: Composition with Context** (2017 CVPR), Ishan Misra et al. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Misra_From_Red_Wine_CVPR_2017_paper.pdf)
 
 ### Composed CZSL Methods
+- **Learning to Compose Soft Prompts for Compositional Zero-Shot Learning(CSP)** (2023 ICLR), Nihal V. Nayak et al. [[pdf]](https://arxiv.org/pdf/2204.03574.pdf)
 - **Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning(DFSP)** (2023 CVPR), Xiaocheng Lu et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 - **Learning Conditional Attributes for Compositional Zero-Shot Learning(CANet)** (2023 CVPR), Qingsheng Wang et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 - **Learning to Infer Unseen Single-Multi-Attribute-Object Compositions With Graph Networks** (2023 TPAMI), Hui Chen et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10120982)
