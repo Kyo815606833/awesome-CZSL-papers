@@ -1,11 +1,12 @@
 # Awesome-Compositional-Zero-Shot-Learning-Papers
 Awesome Compositional Zero-shot Learning papers.
-Generally, composition zero-shot learning methods are divided into two different classes: disentangled CZSL methods and composed CZSL methods, distinguished by the distribution of attributes and objects. Due to the limit of my comprehension, the following classifications are for reference only, papers are the key points.：）
+Generally, composition zero-shot learning methods are divided into three different classes: disentangled CZSL methods, composed CZSL methods and CLIP-based methods, distinguished by the distribution of attributes and objects. Due to the limit of my comprehension, the following classifications are for reference only, papers are the key points.：）
 ## Paper List
 - [Disentangled CZSL Methods](#Disentangled-CZSL-Methods)
 - [Composed CZSL Methods](#Composed-CZSL-Methods)
 - [CLIP-based CZSL Methods](#CLIP-based-CZSL-Methods)
 ### Disentangled CZSL Methods
+- **Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning(SAD-SP)** (2024 TPAMI),  Zhe Liu et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274865)
 - **Learning Attention as Disentangler for Compositional Zero-shot Learning(ADE)** (2023 CVPR), Shaozhe Hao et al. [[pdf]](https://i.cs.hku.hk/~kykwong/publications/shao_cvpr2023.pdf)
 - **Leveraging Sub-class Discimination for Compositional Zero-Shot Learning** (2023 AAAI), Xiaoming Hu et al. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25168/24940)
 - **Disentangling Visual Embeddings for Attributes and Objects(OADis)** (2022 CVPR), Nirat Saini et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Saini_Disentangling_Visual_Embeddings_for_Attributes_and_Objects_CVPR_2022_paper.pdf)
@@ -23,8 +24,6 @@ Generally, composition zero-shot learning methods are divided into two different
 - **From Red Wine to Red Tomato: Composition with Context** (2017 CVPR), Ishan Misra et al. [[pdf]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Misra_From_Red_Wine_CVPR_2017_paper.pdf)
 
 ### Composed CZSL Methods
-- **Learning to Compose Soft Prompts for Compositional Zero-Shot Learning(CSP)** (2023 ICLR), Nihal V. Nayak et al. [[pdf]](https://arxiv.org/pdf/2204.03574.pdf)
-- **Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning(DFSP)** (2023 CVPR), Xiaocheng Lu et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 - **Learning Conditional Attributes for Compositional Zero-Shot Learning(CANet)** (2023 CVPR), Qingsheng Wang et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
 - **Learning to Infer Unseen Single-Multi-Attribute-Object Compositions With Graph Networks** (2023 TPAMI), Hui Chen et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10120982)
 - **On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning(CVGAE)** (2022 ACM Multimedia), Muhammad Umer Anwaar et al. [[pdf]](https://arxiv.org/pdf/2204.11848.pdf)
@@ -35,3 +34,7 @@ Generally, composition zero-shot learning methods are divided into two different
 - **Task-Driven Modular Networks for Zero-Shot Compositional Learning(TMN)** (2019 ICCV), Senthil Purushwalkamet al. [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf)
 
 ### CLIP-based CZSL Methods
+- **CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-shot Learning(CAILA)** (2024 WACV), Zhaoheng Zheng et al. [[pdf]](https://arxiv.org/pdf/2305.16681.pdf)
+- **GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning(GIPCOL)** (2024 WACV), Guangyue Xu et al. [[pdf]](https://arxiv.org/pdf/2311.05729.pdf)
+- **Learning to Compose Soft Prompts for Compositional Zero-Shot Learning(CSP)** (2023 ICLR), Nihal V. Nayak et al. [[pdf]](https://arxiv.org/pdf/2204.03574.pdf)
+- **Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning(DFSP)** (2023 CVPR), Xiaocheng Lu et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
