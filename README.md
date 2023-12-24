@@ -4,6 +4,7 @@ Generally, composition zero-shot learning methods are divided into two different
 ## Paper List
 - [Disentangled CZSL Methods](#Disentangled-CZSL-Methods)
 - [Composed CZSL Methods](#Composed-CZSL-Methods)
+- [CLIP-based CZSL Methods](#CLIP-based-CZSL-Methods)
 ### Disentangled CZSL Methods
 - **Learning Attention as Disentangler for Compositional Zero-shot Learning(ADE)** (2023 CVPR), Shaozhe Hao et al. [[pdf]](https://i.cs.hku.hk/~kykwong/publications/shao_cvpr2023.pdf)
 - **Leveraging Sub-class Discimination for Compositional Zero-Shot Learning** (2023 AAAI), Xiaoming Hu et al. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/25168/24940)
@@ -32,3 +33,5 @@ Generally, composition zero-shot learning methods are divided into two different
 - **Open World Compositional Zero-Shot Learning(CompCos)** (2021 CVPR), Massimiliano Mancini et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf)
 - **Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition** (2019 ICCV), Kun Wei et al. [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)
 - **Task-Driven Modular Networks for Zero-Shot Compositional Learning(TMN)** (2019 ICCV), Senthil Purushwalkamet al. [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf)
+
+### CLIP-based CZSL Methods
